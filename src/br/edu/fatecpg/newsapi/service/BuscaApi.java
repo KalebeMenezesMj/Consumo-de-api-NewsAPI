@@ -7,7 +7,7 @@ import java.net.http.HttpResponse;
 
 public class BuscaApi {
 
-    String apikey="ad2904ef94324594b181b6674501b6eb";
+    String apikey="";
 
     public String buscarNoticias(String tema, int quantidade){
         try{
